@@ -1,4 +1,4 @@
-Django-Rest-framework-XMLRender-without-root-tag
+Django-Rest-framework-XMLRenderer-without-root-tag
 ================================================
 
 This python CustomXMLRenderer will render XML without the root tag .
